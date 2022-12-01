@@ -1,3 +1,7 @@
+# Please ignore
+
 .vscode/
 .vs/
 .idea/
+*.out
+*.o
